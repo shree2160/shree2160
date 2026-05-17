@@ -23,7 +23,7 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 
 - 🟧 **The Vibe Coding Philosophy:** Leveraging the power of LLMs and AI to automate the mundane, allowing me to focus on high-level system design, problem-solving, and building impactful user experiences.
 - 🟧 **Community Impact:** Actively serving as a Core Team Member at **GDG on Campus TKIET**, fostering tech education and collaborative building.
-- 🟧 **Currently Exploring:** [Insert your current research topic or language here, e.g., Advanced RAG systems or Native Android performance tuning].
+- 🟧 **Currently Exploring:** Designing components for the Antigravity (AG) framework to build high-performance reactive web applications.
 
 ---
 
@@ -42,10 +42,18 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 
 ### ❯ Core Languages & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ❯ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ### ❯ Backend, Cloud & Mobile
@@ -110,7 +118,7 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 
 <p align="center">
   <a href="https://github.com/shree2160">
-    <img src="https://github-readme-stats.vercel.app/api?username=shree2106&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&include_all_commits=true" height="170em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shree2160&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&include_all_commits=true" height="170em" />
   </a>
   <a href="https://github.com/shree2160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2106&layout=compact&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&hide_border=true" height="170em" />
@@ -118,7 +126,7 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shree2106&theme=dark&background=000000&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shree2160&theme=dark&background=000000&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
