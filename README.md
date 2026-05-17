@@ -5,8 +5,8 @@
 
 <!-- QUICK CONTACT / SOCIALS -->
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6600" alt="Email" /></a>
+  <a href="https://linkedin.com/in/shree-chavan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600" alt="LinkedIn" /></a>
+  <a href="mailto:chavanshree2006@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6600" alt="Email" /></a>
   <a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FF6600" alt="Twitter" /></a>
 </p>
 
@@ -118,10 +118,10 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 
 <p align="center">
   <a href="https://github.com/shree2160">
-    <img src="https://github-readme-stats.vercel.app/api?username=shree2160&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&include_all_commits=true" height="170em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shree2160&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&v=1" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shree2160">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2106&layout=compact&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&hide_border=true" height="170em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2160&layout=compact&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&hide_border=true&v=1" height="170" alt="Top Languages" />
   </a>
 </p>
 
