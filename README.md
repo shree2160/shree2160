@@ -112,7 +112,7 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
   <a href="https://github.com/shree2160">
     <img src="https://github-readme-stats.vercel.app/api?username=shree2106&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&include_all_commits=true" height="170em" />
   </a>
-  <a href="https://github.com/shree2106">
+  <a href="https://github.com/shree2160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2106&layout=compact&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&hide_border=true" height="170em" />
   </a>
 </p>
