@@ -70,19 +70,22 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 <table width="100%">
   <tr align="center">
     <td width="50%"><b>🤖 Jarvis AI Assistant</b></td>
-    <td width="50%"><b>🛡️ Face Recognition Lock</b></td>
+     <td width="33%"><b>🚨 Alertify</b></td>
+    <!-- <td width="50%"><b>🛡️ Face Recognition Lock</b></td> -->
   </tr>
   <tr align="center">
     <td>A highly customized digital desktop assistant utilizing Python and AI speech processing to automate local workflows and execute voice commands.</td>
-    <td>A biometric security protocol built on computer vision arrays that provides real-time, deep-learning powered facial authentication.</td>
+    <td>An Android-based emergency response app ensuring rapid coordination between victims and rescue services.</td>
+    <!-- <td>A biometric security protocol built on computer vision arrays that provides real-time, deep-learning powered facial authentication.</td> -->
   </tr>
   <tr align="center">
     <td><code>Python</code> • <code>Gemini</code> • <code>Speech API</code></td>
-    <td><code>Python</code> • <code>OpenCV</code> • <code>Hardware</code></td>
+    <td><code>Android Studio</code> • <code>Firebase</code></td>
+    <!-- <td><code>Python</code> • <code>OpenCV</code> • <code>Hardware</code></td> -->
   </tr>
 </table>
 
-<table width="100%">
+<!-- <table width="100%">
   <tr align="center">
     <td width="33%"><b>🚨 Alertify</b></td>
     <td width="33%"><b>💰 Smile2Earn</b></td>
@@ -98,7 +101,7 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
     <td><code>JavaScript</code> • <code>Vision AI</code></td>
     <td><code>HTML/CSS/JS</code> • <code>BaaS</code></td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -116,14 +119,14 @@ I am an **AI-driven developer** and **vibe coder** who specializes in bridging t
 
 ## ⬛ GitHub Analytics Dashboard
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/shree2160">
     <img src="https://github-readme-stats.vercel.app/api?username=shree2160&show_icons=true&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&icon_color=FF6600&hide_border=true&v=1" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shree2160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree2160&layout=compact&theme=dark&bg_color=000000&title_color=FF6600&text_color=ffffff&hide_border=true&v=1" height="170" alt="Top Languages" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shree2160&theme=dark&background=000000&fire=FF6600&ring=FF6600&currStreakNum=FF6600&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
